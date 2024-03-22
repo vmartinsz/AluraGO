@@ -14,7 +14,7 @@ Coloque os sites que deseja no sites.txt
 1º Passo
 
 ```bash
-  git clone git@github.com:vmartinsz/AluraGO.git
+  git clone https://github.com/vmartinsz/AluraGO.git
 ```
 2º Passo
 
